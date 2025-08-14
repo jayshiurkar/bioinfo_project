@@ -1,0 +1,27 @@
+# Python/OS
+__pycache__/
+*.pyc
+.DS_Store
+
+# Editors
+*.swp
+*.code-workspace
+
+# Bioinformatics (don’t commit raw/huge files)
+data/raw/
+*.fastq
+*.fastq.gz
+*.bam
+*.sam
+*.bai
+*.cram
+*.fa
+*.fasta
+*.gff
+*.gtf
+*.vcf
+*.vcf.gz
+
+# Logs and outputs
+logs/
+results/

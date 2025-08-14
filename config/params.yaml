@@ -1,0 +1,5 @@
+qc:
+  min_length: 50
+align:
+  tool: bwa
+  threads: 4
